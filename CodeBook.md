@@ -1,6 +1,6 @@
 # Overview
 
-The function 'run_analysis()' defined in the script 'run_analysis.R' performs data cleansing as defined in the course project for the course Getting and Cleaning Data under Coursera.  
+The function `run_analysis()` defined in the script `run_analysis.R` performs data cleansing as defined in the course project for the course Getting and Cleaning Data under Coursera.  
 The steps are described in more detail as follows:
 
 1. All similar data is merged using the `rbind()` function i.e. files having the same number of columns and referring to the same entities.
